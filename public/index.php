@@ -6,7 +6,7 @@
 	<div id="body">
 		<h1>
 		<?php
-			echo 'Hello Dude!!!';
+			echo 'Hello Dude!!! v0.2';
 		?>
 		</h1>
 		<h2>
